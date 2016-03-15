@@ -1,0 +1,11 @@
+{
+    "name": "mannys/boilerplate",
+    "description": "Manny's boilerplate with front end and backend framework",
+    "authors": [
+        {
+            "name": "mannycarrera4",
+            "email": "manuel.carrera.91@gmail.com"
+        }
+    ],
+    "require": {}
+}

@@ -1,0 +1,26 @@
+{
+  "name": "mannys-boilerplate",
+  "version": "1.0.0",
+  "description": "Boilerplate with front end and backend framework set up",
+  "main": "index.js",
+  "dependencies": {
+    "foundation-apps": "^1.2.0",
+    "jquery": "^2.2.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mannycarrera4/mannys-boilerplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mannycarrera4/mannys-boilerplate/issues"
+  },
+  "homepage": "https://github.com/mannycarrera4/mannys-boilerplate#readme"
+}
